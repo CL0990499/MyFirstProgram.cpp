@@ -1,0 +1,3 @@
+﻿  MyFirstProgram.cpp.cpp
+C:\Users\ctlaw\OneDrive - Ozarks Technical Community College\CSC-140\MyFirstProgram.cpp\MyFirstProgram.cpp\MyFirstProgram.cpp.cpp(8,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MyFirstProgram.cpp.vcxproj -> C:\Users\ctlaw\OneDrive - Ozarks Technical Community College\CSC-140\MyFirstProgram.cpp\MyFirstProgram.cpp\x64\Debug\MyFirstProgram.cpp.exe
